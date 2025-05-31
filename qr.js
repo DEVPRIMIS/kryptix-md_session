@@ -83,7 +83,7 @@ var randomItem = selectRandomItem(items);
 ✔️ CYBER CORE: STABLE
 ━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━
 👁‍🗨 SUPPORT HUB:
-⮞ YOUTUBE: youtube.com/@MYSTICHAIKOTECH
+⮞ YOUTUBE: youtube.com/@DevPrimis-z9e
 ⮞ OWNER LINK: wa.me/50940938083
 ⮞ SOURCE: github.com/DEVPRIMIS/KRYPTIX-MD_V1
 ⮞ WA CHANNEL: whatsapp.com/channel/0029VbB2Xry0LKZAuosqRO0k
